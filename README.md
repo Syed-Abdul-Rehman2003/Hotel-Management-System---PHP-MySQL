@@ -61,7 +61,3 @@ Here's a brief overview of the project's file structure:
 - `tourbooking.php`: Tour booking page.
 - `tourguides.php`: Tour guides information.
 - `view-application-detail.php`: View application details.
-
-## Contributing 🤝
-
-We welcome contributions to improve this project! Please fork the repository and submit a pull request.
